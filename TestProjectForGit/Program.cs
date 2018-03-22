@@ -1,5 +1,5 @@
 ﻿using System;
-
+//GG WHAT AS MY LIFE COME TO
 namespace TestProjectForGit
 {
     class Program
